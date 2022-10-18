@@ -1,5 +1,4 @@
 tensorflow
-tensorflow-gpu
 pandas
 numpy
 flask
