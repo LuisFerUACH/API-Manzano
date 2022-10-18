@@ -1,4 +1,1 @@
 tensorflow
-pandas
-numpy
-flask
