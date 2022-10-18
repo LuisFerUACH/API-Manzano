@@ -2,3 +2,6 @@ tensorflow
 tensorflow-gpu
 efficientnet
 tf-nightly
+pandas
+numpy
+flask
