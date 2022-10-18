@@ -1,0 +1,4 @@
+tensorflow
+tensorflow-gpu
+efficientnet
+tf-nightly
